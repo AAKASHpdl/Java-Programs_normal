@@ -1,7 +1,0 @@
-<#if package?? && package != "">package ${package};</#if>
-import java.util.Scanner;
-public class ${name} {
-    public static void main(String [] args){
-     
-    }
-}
